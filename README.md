@@ -8,3 +8,7 @@ A simple static website template inspired by the organization of the A-RIP/S-RIP
 2. Edit `styles.css` to adjust colors, spacing, and typography.
 3. Publish with GitHub Pages by placing these files in a repository and enabling Pages.
 4. Connect homepage to octav-utls.net (currently hosted on STRATO).
+
+## Contributing
+
+Please fork this repo into your own account and submit a pull request with any desired changes.
